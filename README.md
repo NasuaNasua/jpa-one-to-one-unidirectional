@@ -1,0 +1,1 @@
+# jpa-one-to-one-unidirectional
